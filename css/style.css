@@ -110,9 +110,11 @@ footer {
  
   float: left;
   width: 274px;
-  margin: 20px 0 25px;
+  margin: 20px;
   overflow: auto;
   position: relative;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
 }
 
 
